@@ -148,7 +148,7 @@ TextButton_2.MouseButton1Down:connect(function()
 		LoginFrame.Visible = false
 		
 	
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Main.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxUncopylocked/GlassBridgeAutofarm/main/Main.lua"))()
 		
 		
 		else
